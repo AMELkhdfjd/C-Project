@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555797587 source:c:\algos2\tp officiel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

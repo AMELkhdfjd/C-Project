@@ -1,0 +1,318 @@
+Date: 16 avril 2019
+Salle: Auditorium
+9:00
+Optimal Resource Allocation in URLLC for Real-Time Wireless Control Systems
+Bo Chang  (University of Electronic Science and Technology,  China)
+9:30
+Evaluation of Factors Affecting Inverse Beacon Fingerprinting Using Route Prediction Algorithm
+Mathangi Sridharan  (Queen Mary University of London,  United Kingdom)
+10:00
+Energy Efficiency Fairness Beamforming Designs for MISO NOMA Systems
+Haitham Al-Obiedollah  (University of York,  United Kingdom)
+10:30
+Optimal Dynamic Spectrum Access Scheme for Utilizing White Space in LTE Systems
+Anirudha Sahoo  (NIST,  USA)
+11:00
+Outage Performance of NOMA-based UAV-Assisted Communication with Imperfect SIC
+Aitong Han  (Beijing University,  China)
+11:30
+A Feasibility Study of LTE-V2X Semi-Persistent Scheduling for String Stable CACC
+Arturo Gonzalez  (Technische Universitat Dresden,  Germany)
+14:00
+On-line Client Association Scheme Based on Reinforcement Learning for WLAN Networks
+Mohamed Amine Kafi  (Centrale Supelec,  France)
+14:30
+WiRoI: Spatial Region of Interest Human Sensing with Commodity WiFi
+Lingchao Guo  (Beijing University,  China)
+15:00
+Performance Insights on IEEE 802.11a/g Compliant Software-based In-Band Full Duplex Relay Systems
+Muhammad Sohaib Amjad  (Paderborn University,  Germany)
+15:30
+Novel Data Preprocessing Algorithm for WSN Lifetime Maximization in Water Pipeline Monitoring System
+Maroua Abdelhafidh  (ENIS,  Tunisia)
+Salle: CP1
+9:00
+Algorithm for CSG aware scheduling in LTE systems
+Ramesh Chandran  (Samsung R&D Institute,  India)
+9:30
+Adaptive Proportional Fairness Scheduling for SWIPT-Enabled Multicell Downlink Networks
+Yongjae Kim  (KAIST,  Korea)
+10:00
+RS Limited User Grouping Scheduling Algorithm for Downlink Massive MIMO Systems
+Qi Zhang  (Beijing University,  China)
+10:30
+Deterministic Transmittable Time-based Asynchronous Scheduler for Fronthaul Networks
+Shiyan Zhang  (Beijing University,  China)
+11:00
+Feasibility of deploying wireless Internet of Things in the unlicensed European 865-868 MHz band
+Mads Lauridsen  (Nokia Bell Labs,  Denmark)
+14:00
+Performance Evaluation of Switched Beam Antenna with Different Configurations at 28 GHz
+Muhammad Usman Sheikh  (Aalto University,  Finland)
+14:30
+Joint Optimization of Offloading and Resource Allocation Scheme for Mobile Edge Computing
+Boutheina Dab  (UPMC Sorbonne University,  France)
+15:00
+Distributed Algorithm for Energy Efficient Joint Cloud and Edge Computing with Splittable Tasks
+Tobias Mahn  (TU Darmstadt,  Germany)
+Salle: CP2
+9:00
+Reliability and Latency Aware Code-Partitioning Offloading in Mobile Edge Computing
+Jianhui Liu  (Aarhus University,  Denmark)
+9:30
+Proactive Video Chunks Caching and Processing for Latency and Cost Minimization in Edge Networks
+Emna Baccour  (Qatar University,  Qatar)
+10:00
+QoE-aware Cross-Layer Adaptation for Delay-Constrained Video Transmission over Wireless Channels
+Swades De  (Indian Institute of Technology Delhi,  India)
+10:30
+Analysis of QoE for Adaptive Video Streaming over Wireless Networks with User Abandonment Behavior
+Rachid El-Azouzi  (University of Avignon,  France)
+11:00
+Enhanced Voice Services Based VoLTE Rate Adaptation Mechanism To Improve Quality Of Experience
+Abhijeet Prasad  (Qualcomm Technologies,  USA)
+11:30
+Link Budget Validation for Backscatter-Radio System in Sub-1GHz
+Behnam Badihi  (Aalto University,  Finland)
+14:00
+Opportunistic Wireless Energy Transfer in Point-to-Point Links
+Amanthi Ratnayake Thudugalage University of Melbourne (University of Melbourne,  Australia)
+14:30
+Capacity Enhancement for Energy-Harvesting Cognitive Radio Networks: A NOMA-Enabled Joint Design
+Xiaopeng Liang  (Beijing University,  China)
+15:00
+Minimizing Age of Information for an Energy Harvesting Cognitive Radio
+Shiyang Leng  (The Pennsylvania State University,  USA)
+15:30
+Enabling SWIPT via OFDM-DC
+Majid Nasiri Khormuji  (Huawei Technologies AB,  Sweden)
+Salle: CP3
+9:00
+Design of Communication Systems for Wireless-Powered Communications with Multiple Frequency Bands
+Ryuhei Takahashi  (The University of Electro-Communications,  Japan)
+9:30
+SWIPT-based Real-Time Mobile Computing Systems: A Stochastic Geometry Perspective
+Ayse Ipek Akin  (Universite Catholique de Louvain,  Belgium)
+10:00
+Pricing Perspective for SWIPT in OFDM-based Multi-User Wireless Cooperative Systems
+Sumit Gautam  (University of Luxembourg,  Luxembourg)
+10:30
+Average Transmission Success Probability Bound for SWIPT Relay Networks
+Bhathiya Pilanawithana  (University of Melbourne,  Australia)
+11:00
+Frame-theoretic Precoding and Beamforming Design for Robust mmWave Channel Estimation
+Andrei Stoica  (Jacobs University Bremen,  Germany)
+11:30
+Beam Broadening for 5G Millimeter Wave Systems
+Ahmed Elshafiy  (University of California,  USA)
+14:00
+Hybrid Precoding for Wideband Multi-user MIMO Millimeter Wave System
+Qianrui Li  (Mitsubishi Electric,  France)
+14:30
+Efficient Hybrid Beamforming for Relay Assisted Millimeter-Wave Multi-User Massive MIMO
+Nuan Song  (Nokia Bell Labs China,  China)
+15:00
+System Performance of Indoor Office Millimeter Wave Communications
+Ahmed Elshafiy  (University of California,  USA)
+15:30
+Impact of Hardware Impairments and Channel Aging Millimeter-Wave Heterogeneous Networks
+Anastasios Papazafeiropoulos  (University of Edinburgh,  United Kingdom)
+Date: 17 avril 2019
+Salle: Auditorium
+9:00
+Millimeter Wave Compressive Path Tracking with Carrier Frequency Offset
+Xi Yang  (Southeast University,  China)
+9:30
+Low Complexity Sparse Channel Estimation for Wideband mmWave Systems: Multi-Stage Approach
+Mojtaba Jahandideh  (University of Oulu,  Finland)
+10:00
+Sampling Free TDOA Localization in Millimeter Wave Networks
+Shree Prasad  (National Institute of Technology Goa,  India)
+10:30
+IP Aided OMP Based Channel Estimation for Millimeter Wave Massive MIMO Communication
+You You  (University of Leeds,  United Kingdom)
+11:00
+Collision Resolution Protocol via Soft Decision Stochastic Retransmission
+Jose Carlos  (State University of Londrina,  Brazil)
+14:00
+Dynamic Spectrum Access via Smart Contracts on Blockchain
+Thirasara Ariyarathna  (University of Moratuwa,  Sri Lanka)
+14:30
+A Robust and Energy Efficient NOMA-Enabled Hybrid VLC/RF Wireless Network
+Ahmed Al-Hammadi  (Khalifa University,  United Arab Emirèc)
+15:00
+Distributed SIP DDoS Defense with P4
+Aldo Febro  (University of Hertfordshire,  United Kingdom)
+15:30
+A Method of HTTP Malicious Traffic Detection on Mobile Networks
+Jia Li  (Institute of Information Engineering,  China)
+Salle: CP1
+9:00
+Security Considerations in 5G Networks: A Slice-Aware Trust Zone Approach
+Dimitrios Schinianakis  (Nokia Bell Labs,  Germany)
+9:30
+CaTch: A Confidence Range Tolerant Misbehavior Detection Approach
+Joseph Kamel  (Telecom ParisTech,  France)
+10:00
+Blockchain based Secure IoT Solution for the Dam Surveillance
+Soumaya Bel Hadj Youssef  (Higher School of Communications of Tunis,  Tunisia)
+10:30
+Artificial Intelligence for Diabetes Mellitus Type II: Forecasting and Anomaly Detection
+Kareem Arab  (Carleton University,  Canada)
+11:00
+A Novel Retransmission Scheme for HARQ Enhancement in NOMA Based LTE systems
+Ramesh Chandran  (Samsung R&D Institute,  India)
+11:30
+On the Suitability of LTE Air Interface for Reliable Low-Latency Applications
+Guillermo Pocovi  (Nokia Bell Labs,  Denmark)
+14:00
+Multiple UAVs Enabled Data Offloading for Cellular Hotspots
+Qingheng Song  (Southeast University,  China)
+14:30
+A Cross-Layer CQI Feedback Reduction Technique for MVD Transmission in Crowd Event Scenarios
+Mario Cordina  (University of Malta,  Malta)
+15:00
+Lightweight Dynamic Key-Dependent and Flexible Cipher Scheme for IoT Devices
+Hassan Noura  (American University of Beirut,  Lebanon)
+15:30
+An Efficient Multi-Group Key Management Protocol for Heterogeneous IoT Devices
+Mohamed Ali Kandi  (UTC de Compiegne,  France)
+Salle: CP4
+9:00
+SectOR: Sector-Based Opportunistic Routing Protocol for Underwater Optical Wireless Networks
+Abdulkadir Celik  (KAUST,  Saudi Arabia)
+9:30
+Investigation of Outage Probability and AP Placement for Mobile Users in Indoor VLC System Design
+Iman Abdalla  (Boston University,  USA)
+10:00
+QoS-aware Power Allocation and Relay Placement in Green Cooperative FSO Communications
+Ganesh Prasad  (NIT Silchar,  India)
+10:30
+ccess Point Selection Scheme for LiFi Cellular Networks using Angle Diversity Receivers
+Zhihong Zeng  (University of Edinburgh,  United Kingdom)
+11:00
+Improving Performance of QUIC in WiFi
+Jawad Manzoor  (Universite Catholique de Louvain,  Belgium)
+11:30
+A Novel Game Theoretic Approach for Forming Coalitions Between IMS Cloud Providers
+Hani Nemati  (Polytechnique Montreal,  Canada)
+14:00
+LTE-WIFI Offloading With Realistic Attributes
+Ferial Hantera  (Vodafone,  Egypt)
+14:30
+Towards Efficient Control of Mobile Network-Enabled UAVs
+Hamed Hellaoui  (Ecole nationale Superieure d'Informatique,  Algeria)
+15:00
+Lifetime Maximization for Uplink Transmission in UAV-Enabled Wireless Networks
+Kuo-Ming Chen  (National Chiao Tung University,  Taiwan)
+15:30
+A New Shadowed Double-Scattering Model with Application to UAV-to-Ground Communications
+Petros Bithas  (University of Piraeus,  Greece)
+Salle: CP5
+9:00
+Optimized Channel-Aware Scheduling for Heterogeneous Internet of Things
+Yousef Rafique  (Carleton University,  Canada)
+9:30
+On Time-of-Arrival Estimation in NB-IoT Systems
+Sha Hu  (Lund University,  Sweden)
+10:00
+Modified Gold Sequence for Positioning Enhancement in NB-IoT
+Guoda Tian  (Lund University,  Sweden)
+10:30
+Robust Hybrid Analog/Digital Beamforming for Uplink Massive-MIMO with Imperfect CSI
+Alireza Morsali  (McGill University,  Canada)
+11:00
+Path Selection Based Feedback Reduction for FDD Massive MIMO Systems
+Seungnyun Kim  (Seoul National University,  Korea)
+11:30
+A Scalable Performance-Complexity Trade-off for Full Duplex Beamforming
+Mahmoud Tukur Kabir  (University College London,  United Kingdom)
+14:00
+Analytical Modeling of White Space Utilization for a Dynamic Spectrum Access System
+Charles Hagwood  (NIST,  USA)
+14:30
+Joint Optimization of UAV Trajectory and Radio Resource Allocation for Drive-Thru Vehicular Networks
+Moataz Shoukry  (Concordia University,  Canada)
+15:00
+CETVSP: Cost Efficient Trust-Based Vehicle Selection for Platoon
+Gurbakshish Toor  (Nanyang Technological University,  Singapore)
+Date: 18 Avril 2019
+Salle: Auditorium
+9:00
+A Distributed Mechanism for Joint 3D Placement and User Association in UAV-assisted Networks
+Hajar El Hammouti  (KAUST,  KSA)
+9:30
+Outage Performance of NOMA at Road Intersections Using Stochastic Geometry
+Baha-Eddine Youcef Belmekki  (ENSEEIHT,  France)
+10:00
+An Improved Key Graph based Key Management Scheme for Smart Grid AMI systems
+Mourad Benmalek  (Ecole nationale Superieure d'Informatique,  Algeria)
+10:30
+An Integrating Space Syntax Metrics with Social-aware Opportunistic Forwarding
+Soumaia Al Ayyat  (The American University in Cairo,  Egypt)
+11:00
+Towards a distributed ABE based approach to protect privacy on online social networks
+Youcef Yahiatene  (University Mhamed Bougara Boumerdes,  Algeria)
+11:30
+Joint resource allocation and power control based on Bee Life Algorithm for D2D Communication
+Mohamed Kamel Benbraika  (University of Biskra,  Algeria)
+14:00
+Efficient Matching for Almost Blank Subframes Allocation in Ultra Dense Networks
+Giulio Bartoli  (University of Florence,  Italy)
+14:30
+Self-Tuning Spectral Clustering for Adaptive Tracking Areas Design in 5G Ultra-Dense Networks
+Brahim Aamer  (INWI,  Morocco)
+15:00
+An Energy-efficient Task Offloading Solution for MEC-based IoT in Ultra-dense Networks
+Elie El Haber  (Concordia University,  Canada)
+15:30
+An Ecological Model for User Population Dynamics in Cognitive Radio Networks
+Tom Walingo  (University of KwaZulu-Natal,  South Africa)
+Salle: CP2
+9:00
+Crowd Management Services in Hajj: A Mean-Field Game Theory Approach
+Nidal Nasser  (Alfaisal University,  Saudi Arabia)
+9:30
+Crescendo: An Infrastructure-free Ubiquitous Cellular Network-based Localization System
+Rizanne Elbakly  (E-JUST,  Egypt)
+10:00
+Environment Aware Localization with BLE Fingerprinting for the Next Generation PEPS system
+HanJun Bae and Lynn Choi  (Korea University,  Korea)
+10:30
+Accurate Noise Floor Calibration based on Modified Expectation Maximisation of Gaussian Mixture
+Miguel Lopez-Benitez  (University of Liverpool,  United Kingdom)
+11:00
+Comparison of Lattice-Reduction-Aided Vector Perturbation and Tomlinson-Harashima Precoding
+Mamoun Guenach  (Nokia Bell Labs,  Belgium)
+11:30
+Using Time-limited Pulses in a combined PAM-OMM system over Band-limited Channels
+Youssef Jaffal  (American University of Beirut,  Lebanon)
+Salle: CP3
+9:00
+Rate Splitting Approach Under PSK signaling Using Constructive Interference Precoding Technique
+Abdelhamid Salem  (UCL,  United Kingdom)
+9:30
+Impact of Population on the Mutual Information of Action Potential Driven Communication in Plants
+Hamdan Awan  (York University,  Canada)
+10:00
+5G NR Physical Downlink Control Channel: Design, Performance and Enhancements
+Anirudha Sahoo  (NIST,  USA)
+10:30
+Decentralized Robust Beamforming and Power Splitting for Multi-Relay Assisted SWIPT Systems
+Guixian Xu  (Aalborg University,  Denmark)
+11:00
+Ultra-Reliable Low Latency Communication for Consensus Control in Multi-Agent Systems
+Anam Tahir  (TU Darmstadt,  Germany)
+Salle: CP5
+14:00
+Edge Cloud Resource-aware Flight Planning for Unmanned Aerial Vehicles
+Oussama Bekkouche  (Aalto University,  Finland)
+14:30
+URLLC Packet Management for Packetized Predictive Control
+Qi Wang  (University of Electronic Science And Technology,  China)
+15:00
+NextGen-MHS: A Novel Architecture for Tethering of Aggregated Licensed and Unlicensed Spectrums
+Anirudha Sahoo  (NIST,  USA)
+15:30
+A 3-D Self-Calibration Method for Multiple Base Stations in Large Complex Indoor Environment
+Xiaoxuan Wang  (Zhejiang University,  China)
